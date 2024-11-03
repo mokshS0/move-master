@@ -32,7 +32,7 @@ IMAGES = {}
 # Main Function
 def main():
 
-    # Initialize pygame anf the GUI
+    # Initialize pygame and the GUI
     p.init()
     p.display.set_caption("The Engine")
     screen = p.display.set_mode((BOARD_WIDTH + MOVE_LOG_PANEL_WIDTH, BOARD_HEIGHT))
