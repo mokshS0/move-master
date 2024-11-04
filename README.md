@@ -4,7 +4,6 @@ Hi! I'm Moksh and I created this chess engine and GUI that allows you to play ch
 ### Info
 * Created in Python 
 * Uses the Pygame Library to create GUI
-* I used [this video series](https://www.youtube.com/watch?v=EnYui0e73Rs&list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&ab_channel=EddieSharick%28Eddie%29) by Eddie Sharick to help me create the engine (all 16 videos)
 
 ### Why? 
 As a chess tutor, I created this application to keep my students enganged.
