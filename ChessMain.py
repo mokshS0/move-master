@@ -205,7 +205,7 @@ def showStartScreen(screen, clock):
         screen.fill(p.Color("gray"))
         
         # Draw title text
-        title_text = title_font.render("Welcome to The Engine!", True, p.Color("black"))
+        title_text = title_font.render("Welcome to Move Master!", True, p.Color("black"))
         screen.blit(title_text, (BOARD_WIDTH // 2 - title_text.get_width() // 2 + 125, 150))
 
         # Draw white button
