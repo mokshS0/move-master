@@ -1,4 +1,4 @@
-# The Chess Engine
+# Move Master
 Hi! I'm Moksh and I created this chess engine and GUI that allows you to play chess against a bot.
 
 Intro: 
