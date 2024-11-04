@@ -34,7 +34,7 @@ def main():
 
     # Initialize pygame and the GUI
     p.init()
-    p.display.set_caption("The Engine")
+    p.display.set_caption("Move Master")
     screen = p.display.set_mode((BOARD_WIDTH + MOVE_LOG_PANEL_WIDTH, BOARD_HEIGHT))
     clock = p.time.Clock()
     screen.fill(p.Color("white"))
